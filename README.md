@@ -4,7 +4,7 @@
   <img src="gif/TylerUltra.gif" width="1200" alt="Click to see the source" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=https://github.com/TylerUltra/TylerUltra&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=TylerUltra&label=PROFILE+VIEWS)
 
 # 🤝🏻 Connect:
 <p align="center">
