@@ -22,3 +22,5 @@
 &nbsp; <a href="https://www.facebook.com/hoanganhtu_3912" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
 &nbsp; <a href="mailto:tumo7577@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
 </p>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Mình là newbie nên mong mọi người giúp đỡ!</b> :3</em>
