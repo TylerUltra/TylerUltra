@@ -4,9 +4,9 @@
   <img src="gif/TylerUltra.gif" width="1200" alt="Click to see the source" />
 </a>
 
-
+<p>ㅤ</p>
 ![](https://komarev.com/ghpvc/?username=TylerUltra&label=PROFILE+VIEWS)
-
+<p>ㅤ</p>
 
 ## Cá Nhân 🌎: <a href="https://github.com/TylerUltra/TylerUltra"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif?raw=true"></a>
 - Bạn có thể trò truyện với tôi trên <a href="m.me\hoanganhtu.3912">Messenger</a> hoặc <a href="https://Facebook.com\hoanganhtu.3912">Facebook</a>  
