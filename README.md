@@ -1,7 +1,7 @@
 # 👋 Xin chào! Mình là Hoàng Anh Tú  <img src="gif/kakashi2.gif" width="30"></h1>
 
 <a href="#" target="_blank">
-  <img src="https://c.tenor.com/9Pnj62UINAcAAAAd/sasuke-sasuke-susanoo.gif" width="1200" alt="Click to see the source" />
+  <img src="gif/sasuke-sasuke-susanoo.gif" width="1200" alt="Click to see the source" />
 </a>
 
 
