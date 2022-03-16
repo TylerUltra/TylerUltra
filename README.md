@@ -1,7 +1,7 @@
 # 👋 Xin chào! Mình là Hoàng Anh Tú  <img src="gif/kakashi2.gif" width="30"></h1>
 
 <a href="#" target="_blank">
-  <img src="https://imgur.com/a/gLhDJ87" width="1200" alt="Click to see the source" />
+  <img src="gif/yourname.mp4" width="1200" alt="Click to see the source" />
 </a>
 
 
