@@ -1,5 +1,5 @@
 # 👋 Xin chào! Mình là Hoàng Anh Tú  <img src="gif/kakashi2.gif" width="30"></h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2313EAF7&size=30&center=true&lines=Hi+there%2CMy+name+is+Hoàng+Anh+Tú!;Welcome+to+Tyler+Hoang's+Github!)](https://github.com/tylerultra)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2313EAF7&size=20&center=true&lines=Hi+there%2CMy+name+is+Hoàng+Anh+Tú!;Welcome+to+Tyler+Hoang's+Github!)](https://github.com/tylerultra)
 
 <a href="#" target="_blank">
   <img src="gif/sasuke-sasuke-susanoo.gif" width="1200" alt="Click to see the source" />
