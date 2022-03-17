@@ -14,6 +14,8 @@
 - Tìm hiểu về tôi trên <a href="https://tylerultra.github.io">Web</a>
 - Mọi thắc mắc vui lòng liên hệ <a href="mailto:tumo7577@gmail.com">Gmail</a>   
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 # 🤝🏻 Connect:
 <p align="center">
   
