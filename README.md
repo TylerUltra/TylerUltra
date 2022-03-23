@@ -27,8 +27,11 @@
 - Mọi thắc mắc vui lòng liên hệ <a href="mailto:tumo7577@gmail.com">Gmail
 </a>
   
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+</a>
 
 # <h2 align="center">Contact :</h2>
 <br>
