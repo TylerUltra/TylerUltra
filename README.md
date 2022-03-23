@@ -1,7 +1,8 @@
 # 👋 Xin chào! Mình là Hoàng Anh Tú  <img src="gif/kakashi2.gif" width="30"></h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2313EAF7&size=20&center=true&lines=Hi+there%2Cmy+name+is+Hoàng+Anh+Tú!;Welcome+to+Tyler+Hoang's+Github!)](https://github.com/tylerultra)
 
-<a href="#" target="_blank">
+<br>
+<div align="center">
   <img src="gif/sasuke-sasuke-susanoo.gif" width="1200" alt="Click to see the source" />
 </a>
 
@@ -16,8 +17,7 @@
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-# 
-<h2 align="center">👽 Where to find me 👽</h2>
+# <h2 align="center">Contact :</h2>
 <br>
 <div align="center">
 <p align="center">
