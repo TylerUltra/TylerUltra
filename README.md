@@ -12,7 +12,7 @@
 
 
 <h2 align="left">
-  # About me:
+# About me:
   
 <div align="left">
 <a href="https://github.com/TylerUltra/TylerUltra"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif?raw=true"></a>
