@@ -9,8 +9,8 @@
 
 ![](https://komarev.com/ghpvc/?username=TylerUltra&label=PROFILE+VIEWS)
 
-
-# <p style="text-align:lefr;">Abou me:</p>
+<div align="left">
+# About me :
 <a href="https://github.com/TylerUltra/TylerUltra"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif?raw=true"></a>
 - Trò chuyện với tôi trên <a href="https://m.me/hoanganhtu.3912">Messenger</a> hoặc <a href="https://Facebook.com\hoanganhtu.3912">Facebook</a>  
 - Tìm hiểu về tôi trên <a href="https://tylerultra.github.io">Web</a>
