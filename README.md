@@ -16,7 +16,10 @@
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-# 🤝🏻 Connect:
+# 
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<div align="center">
 <p align="center">
   
 &nbsp; <a href="https://www.instagram.com/tylerhoang_0309" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/100/000000/instagram-new--v3.png" width="100" /></a> 
