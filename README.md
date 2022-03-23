@@ -11,10 +11,8 @@
 
 
 
-# <h2 align="left">About me :</h2>
-<br>
-<div align="left">
-<p align="left">:
+<h2 align="left">About me :</h2>
+
   
 <div align="left">
 <a href="https://github.com/TylerUltra/TylerUltra"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif?raw=true"></a>
