@@ -11,10 +11,11 @@
 
 <div align="left">
 # About me :
-<a href="https://github.com/TylerUltra/TylerUltra"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif?raw=true"></a>
+<a href="https://github.com/TylerUltra/TylerUltra"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif?raw=true">
 - Trò chuyện với tôi trên <a href="https://m.me/hoanganhtu.3912">Messenger</a> hoặc <a href="https://Facebook.com\hoanganhtu.3912">Facebook</a>  
-- Tìm hiểu về tôi trên <a href="https://tylerultra.github.io">Web</a>
-- Mọi thắc mắc vui lòng liên hệ <a href="mailto:tumo7577@gmail.com">Gmail</a>
+- Tìm hiểu về tôi trên <a href="https://tylerultra.github.io">Web
+- Mọi thắc mắc vui lòng liên hệ <a href="mailto:tumo7577@gmail.com">Gmail
+</a>
   
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
