@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2313EAF7&size=20&center=true&lines=Hi+there%2Cmy+name+is+Hoàng+Anh+Tú!;Welcome+to+Tyler+Hoang's+Github!)](https://github.com/tylerultra)
 
 <div align="center">
-  <img src="gif/sasuke-sasuke-susanoo.gif" width="1200" alt="Click to see the source" />
+  <img src="https://thumbs.gfycat.com/AcceptableGreedyDutchsmoushond-size_restricted.gif" width="1200" alt="Click to see the source" />
 </a>
 
 <br>
