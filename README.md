@@ -31,7 +31,8 @@
   
 <div align="center">
   
-  ![](https://raw.githubusercontent.com/TylerUltra/stats/master/generated/overview.svg)![](https://raw.githubusercontent.com/TylerUltra/stats/master/generated/languages.svg)
+  ![](https://raw.githubusercontent.com/TylerUltra/stats/master/generated/overview.svg)
+  ![](https://raw.githubusercontent.com/TylerUltra/stats/master/generated/languages.svg)
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
