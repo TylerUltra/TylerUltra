@@ -5,7 +5,7 @@
   <img src="https://thumbs.gfycat.com/AcceptableGreedyDutchsmoushond-size_restricted.gif" width="1200" alt="Click to see the source" />
 </a>
 
-<div id="box"></div>
+<div id="tylerultra"></div>
   body {
   background:black url(http://fc01.deviantart.net/fs71/f/2012/160/b/9/stars_by_paulinemoss-d52un4e.jpg);
   animation: stars 205s linear alternate;
