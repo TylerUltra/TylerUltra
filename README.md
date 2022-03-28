@@ -5,8 +5,12 @@
   <img src="https://thumbs.gfycat.com/AcceptableGreedyDutchsmoushond-size_restricted.gif" width="1200" alt="Click to see the source" />
 </a>
 
-<div align="left">
-  𝗧𝘆𝗹𝗲𝗿𝗛 - 𝗧𝘆𝗹𝗲𝗿 𝗨𝗹𝘁𝗿𝗮
+
+
+<div align="center">
+  
+  
+  # 𝗧𝘆𝗹𝗲𝗿𝗛 - 𝗧𝘆𝗹𝗲𝗿 𝗨𝗹𝘁𝗿𝗮
 
 <div id="tylerultra"></div>
 
