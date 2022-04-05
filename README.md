@@ -1,4 +1,4 @@
-# 👋 Xin chào! Mình là 𝑯𝒐𝒂̀𝒏𝒈 𝑨𝒏𝒉 𝑻𝒖́  <img src="gif/kakashi2.gif" width="30"></h1>
+# 👋 Xin chào! Mình là Hoàng Anh Tú  <img src="gif/kakashi2.gif" width="30"></h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2313EAF7&size=19&center=true&lines=Hi+there%2C+my+name+is+Hoàng+Anh+Tú!;Welcome+to+Tyler+Hoang's+Github!)](https://github.com/tylerultra)
 
 <div align="center">
@@ -10,7 +10,7 @@
 <div align="center">
   
   
-  # 𝓣𝔂𝓵𝓮𝓻𝓗 - 𝓣𝔂𝓵𝓮𝓻 𝓤𝓵𝓽𝓻𝓪
+  # 𝓣 𝔂 𝓵 𝓮 𝓻 𝓗 - 𝓣 𝔂 𝓵 𝓮 𝓻 𝓤 𝓵 𝓽 𝓻 𝓪
 
 <div id="tylerultra"></div>
 
